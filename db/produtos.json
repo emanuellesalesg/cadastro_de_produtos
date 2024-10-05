@@ -1,26 +1,20 @@
 [
     {
-        "codigo": "001",
-        "nome": "celular",
-        "quantidade": 100,
-        "valor": 2000
-    },
-    {
-        "codigo": "002",
-        "nome": "computador",
-        "quantidade": 200,
-        "valor": 5000
-    },
-    {
-        "codigo": "002",
-        "nome": "computador",
-        "quantidade": 200,
-        "valor": 5000
-    },
-    {
         "codigo": "055",
         "nome": "garrafa termica",
-        "quantidade": 700,
-        "valor": 20
+        "quantidade": 820,
+        "valor": 12300
+    },
+    {
+        "codigo": "076",
+        "nome": "mouse",
+        "quantidade": 20,
+        "valor": 870
+    },
+    {
+        "codigo": "098",
+        "nome": "camera",
+        "quantidade": 900,
+        "valor": 2340
     }
 ]
